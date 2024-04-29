@@ -7,3 +7,5 @@ It is a simple Backend Project to understand functionality.
 #### 2.Read
 #### 3.Update
 #### 4.Delete
+
+> .env contains the mongodb_url & PORT
