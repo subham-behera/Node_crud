@@ -25,7 +25,6 @@ This project is a simple backend API built with Node.js to perform CRUD operatio
 - **`models/`**: Mongoose models for defining the database schema.
 - **`routes/`**: Defines the routes/endpoints for the API.
 - **`uploads/`**: Directory for storing uploaded files.
-- **`.gitignore`**: Specifies files and directories to be ignored by Git.
 - **`README.md`**: Project documentation.
 - **`app.js`**: Main application file.
 - **`package.json`**: Lists the project dependencies and scripts.
